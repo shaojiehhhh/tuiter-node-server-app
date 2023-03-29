@@ -1,0 +1,25 @@
+{
+  "name": "tuiter-node-server-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaojie Huang",
+  "license": "ISC",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaojiehhhh/tuiter-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "bugs": {
+    "url": "https://github.com/shaojiehhhh/tuiter-node-server-app/issues"
+  },
+  "homepage": "https://github.com/shaojiehhhh/tuiter-node-server-app#readme"
+}
