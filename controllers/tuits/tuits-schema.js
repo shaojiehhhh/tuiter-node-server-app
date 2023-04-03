@@ -4,6 +4,7 @@ const schema = mongoose.Schema({
     image: String,
     topic: String,
     title: String,
+    replies: Number,
     handle: String,
     likes: Number,
     dislikes: Number,
